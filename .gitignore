@@ -1,0 +1,12 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore output files
+*.txt
+*.pdf
+*.docx
+
+# Ignore virtual environments
+venv/
+env/

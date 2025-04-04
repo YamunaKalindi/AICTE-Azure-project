@@ -1,0 +1,6 @@
+# Configuration for ATES
+browser:
+  url: "https://news.google.com"
+  headless: true
+filesystem:
+  default_path: "./output"
