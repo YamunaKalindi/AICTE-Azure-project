@@ -1,4 +1,4 @@
-# The-Autonomous-Task-Execution-System-ATES-
+# The Smart Task Executor
 
 ATES is a Python-based system designed to autonomously execute tasks across multiple environments (Browser, Terminal, File System). It interprets natural language instructions, plans tasks, and generates outputs like text files or PDFs with charts. Built as a deployable project, it showcases web scraping, data processing, and report generation.
 
